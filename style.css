@@ -85,5 +85,13 @@
     transform: translateX(-70%);
     margin-top: 17%;
 }
+.linkSite{
+    width: 96px;
+    height: 54px;
+    position: absolute;
+    left: 78%;
+    transform: translateX(-70%);
+    margin-top: 17%;
+}
 
 
